@@ -1,0 +1,6 @@
+tmp/
+**/.Ds_store
+Thumbs.db/
+**/index.html_old
+**/.png_backup
+**/Thumbs.db
